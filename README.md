@@ -97,5 +97,3 @@
 </div>
 </div>
 </details>
-
-![Generate Datas](https://github.com/mikaelle-s/mikaelle-s/blob/output/github-contribution-grid-snake.svg)
